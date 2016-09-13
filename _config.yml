@@ -12,15 +12,17 @@ safe: true
 # edit here to achieve your personal greatness
 url: http://vkhattar.github.io/
 baseurl: /
+resumeurl: "/assets/pdf/resume.pdf"
 title: Vedant Khattar
 author: Vedant Khattar
 description: Personal blog and resume
 avatar: profile.png
 email: vedantkhattar@gmail.com
-github: vkhattar # username
-twitter: username
+github: vkhattar
+twitter: 
 linkedin: vedantkhattar
-stackoverflow: username   #e.g: users/2735833/proton1h1
+stackoverflow:
+   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus 
 # disqus: username
 google_analytics: UA-69391421-1
